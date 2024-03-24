@@ -1,4 +1,4 @@
-# sagebank
+# SageBank developed by Aniq Hakim & Zaha Iqhmal
 The ultimate banking app designed specifically to safeguard your online transactions.
 
 ## Description
